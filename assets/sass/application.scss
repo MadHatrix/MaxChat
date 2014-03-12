@@ -1,0 +1,32 @@
+.container {
+	.left {
+		display: block;
+		float: left;
+		width: 320px;
+		padding-top: 20px;
+
+		#messages {
+			width: 310px;
+			height: 100px;
+			padding: 4px;
+			overflow-y: scroll;
+			border: 1px solid #888;
+			border-radius: 4px;
+		}
+		.message span {
+			color: #aaa;
+		}
+	}
+	.right {
+		padding-top: 20px;
+		#displayName {
+			 display: none;
+		}
+	}
+}
+	.hide {
+		display: none;
+	}
+	.show {
+		display: block;
+	}

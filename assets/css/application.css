@@ -1,0 +1,1 @@
+.container .left{display:block;float:left;width:320px;padding-top:20px}.container .left #messages{width:310px;height:100px;padding:4px;overflow-y:scroll;border:1px solid #888;border-radius:4px}.container .left .message span{color:#aaa}.container .right{padding-top:20px}.container .right #displayName{display:none}.hide{display:none}.show{display:block}
